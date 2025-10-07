@@ -1,5 +1,7 @@
 
 🚀 Next.js Application Deployment with Docker, GitHub Actions, and Kubernetes (Minikube on AWS EC2)
+
+
 📘 Project Overview
 
 This project demonstrates the complete DevOps workflow of containerizing, automating, and deploying a modern web application.
