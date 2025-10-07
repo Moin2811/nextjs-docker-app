@@ -1,8 +1,8 @@
 
-🚀 Next.js Application Deployment with Docker, GitHub Actions, and Kubernetes (Minikube on AWS EC2)
+## 🚀 Next.js Application Deployment with Docker, GitHub Actions, and Kubernetes (Minikube on AWS EC2)
 
 
-📘 Project Overview
+## 📘 Project Overview
 
 This project demonstrates the complete DevOps workflow of containerizing, automating, and deploying a modern web application.
 
@@ -10,7 +10,7 @@ I created a Next.js application, containerized it using Docker, automated the bu
 
 The main goal of this project was to gain hands-on experience in building containerized applications, setting up CI/CD pipelines, and deploying applications in Kubernetes.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Containerize a Next.js application using Docker
 
@@ -20,14 +20,14 @@ Deploy the containerized application on Kubernetes (Minikube)
 
 Access the deployed application through a web browser
 
-🧩 Project Architecture
+## 🧩 Project Architecture
 
 The workflow begins with a Next.js web application that is containerized using Docker.
 A GitHub Actions workflow is used to automatically build and push the Docker image to the GitHub Container Registry.
 Once the image is available, it is deployed to a Kubernetes cluster using deployment and service manifests.
 Finally, the application is exposed via NodePort or port forwarding for browser access.
 
-⚙️ Tools & Technologies Used
+## ⚙️ Tools & Technologies Used
 
 Next.js
 
@@ -43,7 +43,7 @@ AWS EC2 (Ubuntu Server)
 
 YAML Manifests for deployment and service configuration
 
-🧱 Setup Summary
+## 🧱 Setup Summary
 
 Cloned the repository and created a simple Next.js application using the official starter template.
 
@@ -55,7 +55,7 @@ Deployed the application on Minikube using Kubernetes manifests — one for Depl
 
 Accessed the application by forwarding the Minikube port or exposing it through NodePort on AWS EC2.
 
-☸️ Kubernetes Deployment Summary
+## ☸️ Kubernetes Deployment Summary
 
 The Kubernetes setup consisted of two YAML manifests:
 
@@ -65,14 +65,14 @@ Service Manifest: Exposed the application on a specific port using the NodePort 
 
 After applying these manifests, the application was successfully deployed to the Minikube cluster.
 
-🌍 Accessing the Application
+## 🌍 Accessing the Application
 
 The deployed Next.js application was accessed through port forwarding and NodePort.
 
 On the AWS EC2 instance, port 3000 was opened in the Security Group settings to allow external access.
 Once port forwarding was established, the application became accessible via the EC2 public IP address in a web browser.
 
-✅ Results
+## ✅ Results
 
 The Next.js application was successfully containerized and deployed.
 
@@ -82,7 +82,7 @@ The Kubernetes deployment on Minikube worked seamlessly on the AWS EC2 environme
 
 The application was successfully accessible from a browser through port forwarding or NodePort exposure.
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -96,7 +96,7 @@ Configuring Minikube and handling image pull authentication issues
 
 Exposing applications securely on AWS EC2 environments
 
-📜 Author
+## 📜 Author
 
 Mohammed Moin Raoof
 DevOps Enginner
