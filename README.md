@@ -97,7 +97,7 @@ Configuring Minikube and handling image pull authentication issues
 Exposing applications securely on AWS EC2 environments
 
 ## Screenshots
-
+Webpage Running
 <img width="1918" height="1020" alt="Screenshot 2025-10-06 163153" src="https://github.com/user-attachments/assets/f2bc8ad8-4683-49f6-9fd7-a125fb67c959" />
 <img width="1918" height="1008" alt="Screenshot 2025-10-06 214826" src="https://github.com/user-attachments/assets/c8ed8502-333e-448a-8cdf-20fc3138ce4c" />
 <img width="1918" height="1012" alt="Screenshot 2025-10-06 214904" src="https://github.com/user-attachments/assets/7d8bb98d-4916-47fb-b8a2-b9561f1fe49b" />
@@ -105,6 +105,7 @@ Exposing applications securely on AWS EC2 environments
 ## 📜 Author
 
 Mohammed Moin Raoof
+
 DevOps Enginner
 
 
