@@ -108,7 +108,7 @@ Exposing applications securely on AWS EC2 environments
 
 Repository URL: https://github.com/Moin2811/nextjs-docker-app.git
 
-GHCR Image URL:ghcr.io/moin2811/nextjs-docker-app:latest
+GHCR Image URL: docker pull ghcr.io/moin2811/nextjs-docker-app:latest
 
 
 ## 📜 Author
