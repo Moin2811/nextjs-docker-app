@@ -110,7 +110,6 @@ Repository URL: https://github.com/Moin2811/nextjs-docker-app.git
 
 GHCR Image URL: ghcr.io/moin2811/nextjs-docker-app:latest
 
-
 ## 📜 Author
 
 Mohammed Moin Raoof
