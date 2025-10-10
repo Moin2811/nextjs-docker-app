@@ -103,6 +103,14 @@ Exposing applications securely on AWS EC2 environments
 <img width="1918" height="1008" alt="Screenshot 2025-10-06 214826" src="https://github.com/user-attachments/assets/c8ed8502-333e-448a-8cdf-20fc3138ce4c" />
 <img width="1918" height="1012" alt="Screenshot 2025-10-06 214904" src="https://github.com/user-attachments/assets/7d8bb98d-4916-47fb-b8a2-b9561f1fe49b" />
 
+
+🌐 Repository & Image Links
+
+Repository URL: https://github.com/Moin2811/nextjs-docker-app.git
+
+GHCR Image URL: ghcr.io/moin2811/nextjs-docker-app:latest
+
+
 ## 📜 Author
 
 Mohammed Moin Raoof
